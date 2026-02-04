@@ -15,8 +15,11 @@ Basit bir Android hesap makinesi uygulaması.
 - ConstraintLayout
 
 ## 📸 Ekran Görüntüsü
-![Calculator](screenshots/calculator.png)
-![Calculator](screenshots/calculator1.png)
+<p align="center">
+  <img src="screenshots/calculator.png" width="250">
+  <img src="screenshots/calculator1.png" width="250">
+</p>
+
 
 
 
