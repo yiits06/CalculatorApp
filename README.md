@@ -25,4 +25,4 @@ Basit bir Android hesap makinesi uygulaması.
 
 ## 📂 Kurulum
 Projeyi klonlayın:
-git clone https://github.com/kullaniciAdi/CalculatorApp.git
+git clone https://github.com/yiits06/CalculatorApp.git
